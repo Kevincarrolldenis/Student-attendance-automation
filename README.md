@@ -1,4 +1,4 @@
-#otp generator
+
 import math
 import os
 import random
@@ -14,7 +14,6 @@ os.system('python second.py')
 
 
 
-#verification screen
 from tkinter import *
 from tkinter import messagebox
 import tkinter
@@ -68,7 +67,7 @@ ver = Button(Window, text="Verify",relief="raised", bg='blue', font=("arial", 15
 Window.mainloop()
 
 
-#verification process
+
 import sys
 from tkinter import messagebox
 
